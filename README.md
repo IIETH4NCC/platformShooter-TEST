@@ -2,10 +2,10 @@
 <p>Platformer/shooter CONCEPT game </p>
 Created with p5.js FRAMEWORK
 
+![download](https://github.com/user-attachments/assets/1e6d454a-6d62-4913-b055-febb773a70bf)
 
-![download](https://github.com/user-attachments/assets/ea91262c-7bce-4a2c-b685-375faf888833)
 
-![platformGamePreview](https://github.com/user-attachments/assets/2751d1a2-a8c9-46e5-82eb-d0c2c3228a67)
+![platformGamePreview](https://github.com/user-attachments/assets/d727c02d-7cf2-43ab-a4d5-a6438f9b23eb)
 
 <h2>Install</h2>
 <li>DOWNLOAD AS ZIP</li>
